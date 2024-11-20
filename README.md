@@ -1,4 +1,6 @@
-# EX-3  Correlation and regression for data analysis
+# EXP NO:3  Correlation and regression for data analysis
+# DATE:04/09/2024
+
 # Aim : 
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
@@ -21,8 +23,8 @@ If y represents the dependent variable and x the independent variable, this rela
 # Program :
 
 ```
-Name:Bakkiyalakshmi.E
-Reg No.:212223220012
+Name:ROHAN J
+Reg No.:212223040171
 ```
 ```
 
